@@ -3,6 +3,7 @@
 #include<string.h>
 #define MAXWORD 100
 #include<stdlib.h>
+
 struct tnode{
     char *word;
     int cout;
